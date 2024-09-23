@@ -2,6 +2,8 @@ const express = require('express');
 const jwt = require('jsonwebtoken');
 const cors = require('cors');
 const app = express();
+const brand_names = require('./TW_Master_json');
+const fourW_brand_names = require('./4W_Master_json');
 
 app.use(express.json()); // For parsing JSON request body
 app.use(express.urlencoded({ extended: true }));
@@ -29,6 +31,13 @@ app.post('/get-token',(req,res)=>{
     res.send({"jwt":token});
 })
 
+app.get('/tw-brands', (req,res)=>{
+    res.json(brand_names)
+});
+
+app.get('/fw-brands', (req,res)=>{
+    res.json(fourW_brand_names)
+})
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
