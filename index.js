@@ -5,6 +5,12 @@ const app = express();
 const brand_names = require('./TW_Master_json');
 const fourW_brand_names = require('./4W_Master_json');
 
+const schengenCountries = require('./Schengen');
+const asiaCountries = require('./Asia');
+const excludingCountries = require('./Excluding');
+const includingCountries = require('./Including')
+
+
 app.use(express.json()); // For parsing JSON request body
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
@@ -37,6 +43,23 @@ app.get('/tw-brands', (req,res)=>{
 
 app.get('/fw-brands', (req,res)=>{
     res.json(fourW_brand_names)
+})
+
+
+app.get('/schengenCountries',(req,res)=>{
+  res.json(schengenCountries)
+})
+
+app.get('/asiaCountries',(req,res)=>{
+  res.json(asiaCountries);
+})
+
+app.get('/excludingCountries',(req,res)=>{
+  res.json(excludingCountries);
+})
+
+app.get('/includingCountries',(req,res)=>{
+  res.json(includingCountries);
 })
 
 const PORT = process.env.PORT || 3000;
