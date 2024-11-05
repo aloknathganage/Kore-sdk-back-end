@@ -1809,7 +1809,7 @@ const including = [
   }
 ]
 const includingCountries = including.map(item => ({
-  code: item.code,
+  CommonTypesID: item.CommonTypesID,
   description: item.description
 }));
 
