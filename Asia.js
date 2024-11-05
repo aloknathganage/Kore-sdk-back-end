@@ -240,6 +240,14 @@ const asia = [
     "effectivedate": "09-12-2013 17:52"
   },
   {
+    "CommonTypesID": 1833,
+    "code": "000",
+    "description": "Kyrgyzstan",
+    "MasterType": "Asia Plan",
+    "isdeleted": 0,
+    "effectivedate": "2013-12-09 17:52:00"
+  },
+  {
     "CommonTypesID": 1835,
     "code": 194,
     "description": "Lebanon",
@@ -390,22 +398,6 @@ const asia = [
     "MasterType": "Asia Plan",
     "isdeleted": 0,
     "effectivedate": "09-12-2013 17:52"
-  },
-  {
-    "CommonTypesID": 16629,
-    "code": "1003Y",
-    "description": "Yes",
-    "MasterType": "Travel_AsianCountrySelected",
-    "isdeleted": 0,
-    "effectivedate": "10-11-2022 23:35"
-  },
-  {
-    "CommonTypesID": 16630,
-    "code": "1004N",
-    "description": "No",
-    "MasterType": "Travel_AsianCountrySelected",
-    "isdeleted": 0,
-    "effectivedate": "10-11-2022 23:35"
   }
 ]
 const asiaCountries = asia.map(item => ({
