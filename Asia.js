@@ -409,7 +409,7 @@ const asia = [
   }
 ]
 const asiaCountries = asia.map(item => ({
-  code: item.code,
+  CommonTypesID: item.CommonTypesID,
   description: item.description
 }));
 
