@@ -218,7 +218,7 @@ const schengen = [
 ]
 
 const schengenCountries = schengen.map(item => ({
-  code: item.code,
+  CommonTypesID: item.CommonTypesID,
   description: item.description
 }));
 
