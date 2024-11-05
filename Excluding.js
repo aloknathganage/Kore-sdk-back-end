@@ -1778,7 +1778,7 @@ const excluding = [
 ]
 
 const excludingCountries = excluding.map(item => ({
-  code: item.code,
+  CommonTypesID: item.CommonTypesID,
   description: item.description
 }));
 
