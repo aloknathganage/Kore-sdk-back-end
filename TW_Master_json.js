@@ -68712,11 +68712,20 @@ const brands = [
         "Veh_Type_Name": "Two-Wheeler"
     }
 ]
+const displayData = brands.map(vehicle => {
+    return {
+        Make_Name: vehicle.Make_Name,
+        Model_Name: vehicle.Model_Name,
+        Variance: vehicle.Variance
+    };
+});
 
-const uniqueMakeNames = brands
-    .map(vehicle => vehicle.Make_Name) // Extract only Model_Name
-    .filter((makeName, index, self) => self.indexOf(makeName) === index); // Keep only unique Model_Name
+module.exports = displayData;
 
-// console.log(uniqueMakeNames.length);
+// const uniqueMakeNames = brands
+//     .map(vehicle => vehicle.Make_Name) // Extract only Model_Name
+//     .filter((makeName, index, self) => self.indexOf(makeName) === index); // Keep only unique Model_Name
 
-module.exports = uniqueMakeNames;
+// // console.log(uniqueMakeNames.length);
+
+// module.exports = uniqueMakeNames;
