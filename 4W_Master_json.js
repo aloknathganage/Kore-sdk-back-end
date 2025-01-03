@@ -82283,7 +82283,7 @@ const fourWheeler =
         "Make_Name": "MG MOTOR",
         "Model_ID_PK": 56944,
         "Model_Name": "ASTOR",
-        "Variance": " SHARP VTI-TECH CVT",
+        "Variance": " SHARP VTI-TECH CVT",
         "Wheels": 4,
         "Operated_By": "DIESEL",
         "CC": 1498,
@@ -106416,11 +106416,19 @@ const fourWheeler =
     }
 ]
 
+const displayData = fourWheeler.map(vehicle => {
+    return {
+        Make_Name: vehicle.Make_Name,
+        Model_Name: vehicle.Model_Name,
+        Variance: vehicle.Variance
+    };
+});
 
-const uniqueMakeNames_4W = fourWheeler
-    .map(vehicle => vehicle.Make_Name) // Extract only Model_Name
-    .filter((makeName, index, self) => self.indexOf(makeName) === index); // Keep only unique Model_Name
+module.exports = displayData;
+// const uniqueMakeNames_4W = fourWheeler
+//     .map(vehicle => vehicle.Make_Name) // Extract only Model_Name
+//     .filter((makeName, index, self) => self.indexOf(makeName) === index); // Keep only unique Model_Name
 
-// console.log(uniqueMakeNames_4W.length);
+// // console.log(uniqueMakeNames_4W.length);
 
-module.exports = uniqueMakeNames_4W;
+// module.exports = uniqueMakeNames_4W;
