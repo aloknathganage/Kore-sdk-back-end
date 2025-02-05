@@ -1,5 +1,4 @@
 const asia = [
-  
   {
     "CommonTypesID": 1405,
     "code": 2,
