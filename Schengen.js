@@ -216,7 +216,6 @@ const schengen = [
     "effectivedate": "2023-08-23 12:51:00"
   }
 ]
-
 const schengenCountries = schengen.map(item => ({
   CommonTypesID: item.CommonTypesID,
   description: item.description
