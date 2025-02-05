@@ -5,7 +5,7 @@ const asia = [
     "description": "Brunei Darussalam",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1280,
@@ -13,7 +13,7 @@ const asia = [
     "description": "Cambodia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1281,
@@ -21,7 +21,7 @@ const asia = [
     "description": "Korea (South)",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1282,
@@ -29,7 +29,7 @@ const asia = [
     "description": "Thailand",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1283,
@@ -37,7 +37,7 @@ const asia = [
     "description": "Vietnam",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1284,
@@ -45,7 +45,7 @@ const asia = [
     "description": "China",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1285,
@@ -53,7 +53,7 @@ const asia = [
     "description": "East Timor",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1286,
@@ -61,7 +61,7 @@ const asia = [
     "description": "Hongkong",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1287,
@@ -69,7 +69,7 @@ const asia = [
     "description": "Indonesia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1288,
@@ -77,7 +77,7 @@ const asia = [
     "description": "Laos",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1289,
@@ -85,7 +85,7 @@ const asia = [
     "description": "Macao",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1290,
@@ -93,7 +93,7 @@ const asia = [
     "description": "Malaysia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1291,
@@ -101,7 +101,7 @@ const asia = [
     "description": "Korea (North)",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1292,
@@ -109,7 +109,7 @@ const asia = [
     "description": "Phillipines",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1293,
@@ -117,7 +117,7 @@ const asia = [
     "description": "Singapore",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "12-06-2013 11:02"
+    "effectivedate": "2013-06-12 11:02:00"
   },
   {
     "CommonTypesID": 1816,
@@ -125,7 +125,7 @@ const asia = [
     "description": "Afghanistan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1817,
@@ -133,7 +133,7 @@ const asia = [
     "description": "Armenia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1818,
@@ -141,7 +141,7 @@ const asia = [
     "description": "Azerbaijan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1819,
@@ -149,7 +149,7 @@ const asia = [
     "description": "Bahrain",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1820,
@@ -157,7 +157,7 @@ const asia = [
     "description": "Bangladesh",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1821,
@@ -165,7 +165,7 @@ const asia = [
     "description": "Bhutan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1822,
@@ -173,7 +173,7 @@ const asia = [
     "description": "Burma (Myanmar)",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1823,
@@ -181,7 +181,7 @@ const asia = [
     "description": "Cyprus",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1824,
@@ -189,7 +189,7 @@ const asia = [
     "description": "Georgia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1826,
@@ -197,7 +197,7 @@ const asia = [
     "description": "Iran",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1827,
@@ -205,7 +205,7 @@ const asia = [
     "description": "Iraq",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1828,
@@ -213,7 +213,7 @@ const asia = [
     "description": "Israel",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1830,
@@ -221,7 +221,7 @@ const asia = [
     "description": "Jordan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1831,
@@ -229,7 +229,7 @@ const asia = [
     "description": "Kazakhstan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1832,
@@ -237,7 +237,7 @@ const asia = [
     "description": "Kuwait",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1833,
@@ -253,7 +253,7 @@ const asia = [
     "description": "Lebanon",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1836,
@@ -261,7 +261,7 @@ const asia = [
     "description": "Maldives",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1837,
@@ -269,7 +269,7 @@ const asia = [
     "description": "Mongolia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1838,
@@ -277,7 +277,7 @@ const asia = [
     "description": "Nepal",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1839,
@@ -285,7 +285,7 @@ const asia = [
     "description": "Oman",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1840,
@@ -293,7 +293,7 @@ const asia = [
     "description": "Pakistan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1841,
@@ -301,7 +301,7 @@ const asia = [
     "description": "Palestine",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1842,
@@ -309,7 +309,7 @@ const asia = [
     "description": "Qatar",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1843,
@@ -317,7 +317,7 @@ const asia = [
     "description": "Russia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1844,
@@ -325,7 +325,7 @@ const asia = [
     "description": "Saudi Arabia",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1845,
@@ -333,7 +333,7 @@ const asia = [
     "description": "Sri Lanka",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1846,
@@ -341,7 +341,7 @@ const asia = [
     "description": "Syria",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1847,
@@ -349,7 +349,7 @@ const asia = [
     "description": "Taiwan (ROC)",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1848,
@@ -357,7 +357,7 @@ const asia = [
     "description": "Tajikistan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1849,
@@ -365,7 +365,7 @@ const asia = [
     "description": "Turkey",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1850,
@@ -373,7 +373,7 @@ const asia = [
     "description": "Turkmenistan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1851,
@@ -381,7 +381,7 @@ const asia = [
     "description": "United Arab Emirates",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1852,
@@ -389,7 +389,7 @@ const asia = [
     "description": "Uzbekistan",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   },
   {
     "CommonTypesID": 1853,
@@ -397,7 +397,7 @@ const asia = [
     "description": "Yemen",
     "MasterType": "Asia Plan",
     "isdeleted": 0,
-    "effectivedate": "09-12-2013 17:52"
+    "effectivedate": "2013-12-09 17:52:00"
   }
 ]
 const asiaCountries = asia.map(item => ({
