@@ -994,7 +994,7 @@ const excluding = [
   {
     "CommonTypesID": 1690,
     "code": 15,
-    "description": "East Timor",
+    "description": "France",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1002,7 +1002,7 @@ const excluding = [
   {
     "CommonTypesID": 1692,
     "code": 219,
-    "description": "Switzerland",
+    "description": "Jamaica",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1010,7 +1010,7 @@ const excluding = [
   {
     "CommonTypesID": 1693,
     "code": 22,
-    "description": "Dominican Republic",
+    "description": "Switzerland",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1018,7 +1018,7 @@ const excluding = [
   {
     "CommonTypesID": 1694,
     "code": 220,
-    "description": "Grenada",
+    "description": "Dominican Republic",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1026,7 +1026,7 @@ const excluding = [
   {
     "CommonTypesID": 1695,
     "code": 221,
-    "description": "Barbados",
+    "description": "Grenada",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1034,7 +1034,7 @@ const excluding = [
   {
     "CommonTypesID": 1696,
     "code": 222,
-    "description": "montserrat",
+    "description": "Barbados",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1042,7 +1042,7 @@ const excluding = [
   {
     "CommonTypesID": 1697,
     "code": 223,
-    "description": "WEST INDIES",
+    "description": "montserrat",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1050,7 +1050,7 @@ const excluding = [
   {
     "CommonTypesID": 1698,
     "code": 224,
-    "description": "ST KITTS & NEVIS",
+    "description": "WEST INDIES",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1058,7 +1058,7 @@ const excluding = [
   {
     "CommonTypesID": 1699,
     "code": 225,
-    "description": "TURKS & CAICOS ISLANDS",
+    "description": "ST KITTS & NEVIS",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1066,7 +1066,7 @@ const excluding = [
   {
     "CommonTypesID": 1700,
     "code": 226,
-    "description": "VIRGIN ISLANDS (BRITISH)",
+    "description": "TURKS & CAICOS ISLANDS",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1074,7 +1074,7 @@ const excluding = [
   {
     "CommonTypesID": 1701,
     "code": 227,
-    "description": "VIRGIN ISLANDS (US)",
+    "description": "VIRGIN ISLANDS (BRITISH)",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1082,7 +1082,7 @@ const excluding = [
   {
     "CommonTypesID": 1702,
     "code": 228,
-    "description": "FALKLAND ISLANDS",
+    "description": "VIRGIN ISLANDS (US)",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1090,7 +1090,7 @@ const excluding = [
   {
     "CommonTypesID": 1703,
     "code": 229,
-    "description": "Austria",
+    "description": "FALKLAND ISLANDS",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1098,7 +1098,7 @@ const excluding = [
   {
     "CommonTypesID": 1704,
     "code": 23,
-    "description": "ST VINCENT & GRENADINES (WI)",
+    "description": "Austria",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1106,7 +1106,7 @@ const excluding = [
   {
     "CommonTypesID": 1705,
     "code": 230,
-    "description": "NORFOLK ISLAND",
+    "description": "ST VINCENT & GRENADINES (WI)",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1114,7 +1114,7 @@ const excluding = [
   {
     "CommonTypesID": 1706,
     "code": 231,
-    "description": "BERMUDA",
+    "description": "NORFOLK ISLAND",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1122,7 +1122,7 @@ const excluding = [
   {
     "CommonTypesID": 1707,
     "code": 232,
-    "description": "CAYMAN ISLANDS",
+    "description": "BERMUDA",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1130,7 +1130,7 @@ const excluding = [
   {
     "CommonTypesID": 1708,
     "code": 233,
-    "description": "ST LUCIA (WI)",
+    "description": "CAYMAN ISLANDS",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1138,7 +1138,7 @@ const excluding = [
   {
     "CommonTypesID": 1709,
     "code": 234,
-    "description": "IVORY COAST",
+    "description": "ST LUCIA (WI)",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1146,7 +1146,7 @@ const excluding = [
   {
     "CommonTypesID": 1710,
     "code": 235,
-    "description": "SERBIA",
+    "description": "IVORY COAST",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1154,7 +1154,7 @@ const excluding = [
   {
     "CommonTypesID": 1711,
     "code": 236,
-    "description": "MONTENEGRO",
+    "description": "SERBIA",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1162,7 +1162,7 @@ const excluding = [
   {
     "CommonTypesID": 1712,
     "code": 237,
-    "description": "BAHAMAS",
+    "description": "MONTENEGRO",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1170,7 +1170,7 @@ const excluding = [
   {
     "CommonTypesID": 1713,
     "code": 238,
-    "description": "PUERTO RICO",
+    "description": "BAHAMAS",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1178,7 +1178,7 @@ const excluding = [
   {
     "CommonTypesID": 1714,
     "code": 239,
-    "description": "United Kingdom",
+    "description": "PUERTO RICO",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1186,7 +1186,7 @@ const excluding = [
   {
     "CommonTypesID": 1715,
     "code": 24,
-    "description": "NICARAGUA",
+    "description": "United Kingdom",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1194,7 +1194,7 @@ const excluding = [
   {
     "CommonTypesID": 1716,
     "code": 240,
-    "description": "SLOVAKIA",
+    "description": "NICARAGUA",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1202,7 +1202,7 @@ const excluding = [
   {
     "CommonTypesID": 1717,
     "code": 241,
-    "description": "Bangkok",
+    "description": "SLOVAKIA",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1210,7 +1210,7 @@ const excluding = [
   {
     "CommonTypesID": 1718,
     "code": 242,
-    "description": "Denmark",
+    "description": "Bangkok",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1218,7 +1218,7 @@ const excluding = [
   {
     "CommonTypesID": 1719,
     "code": 25,
-    "description": "Sweden",
+    "description": "Denmark",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1226,7 +1226,7 @@ const excluding = [
   {
     "CommonTypesID": 1720,
     "code": 26,
-    "description": "Norway",
+    "description": "Sweden",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1234,7 +1234,7 @@ const excluding = [
   {
     "CommonTypesID": 1721,
     "code": 27,
-    "description": "Poland",
+    "description": "Norway",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1242,7 +1242,7 @@ const excluding = [
   {
     "CommonTypesID": 1722,
     "code": 28,
-    "description": "Germany",
+    "description": "Poland",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1250,7 +1250,7 @@ const excluding = [
   {
     "CommonTypesID": 1723,
     "code": 29,
-    "description": "Peru",
+    "description": "Germany",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1258,7 +1258,7 @@ const excluding = [
   {
     "CommonTypesID": 1724,
     "code": 30,
-    "description": "Mexico",
+    "description": "Peru",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1266,7 +1266,7 @@ const excluding = [
   {
     "CommonTypesID": 1725,
     "code": 31,
-    "description": "Cuba",
+    "description": "Mexico",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1274,7 +1274,7 @@ const excluding = [
   {
     "CommonTypesID": 1726,
     "code": 32,
-    "description": "Argentina",
+    "description": "Cuba",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1282,7 +1282,7 @@ const excluding = [
   {
     "CommonTypesID": 1727,
     "code": 33,
-    "description": "Brazil",
+    "description": "Argentina",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1290,7 +1290,7 @@ const excluding = [
   {
     "CommonTypesID": 1728,
     "code": 34,
-    "description": "Chile",
+    "description": "Brazil",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1298,7 +1298,7 @@ const excluding = [
   {
     "CommonTypesID": 1729,
     "code": 35,
-    "description": "Colombia",
+    "description": "Chile",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1306,7 +1306,7 @@ const excluding = [
   {
     "CommonTypesID": 1730,
     "code": 36,
-    "description": "Venezuela",
+    "description": "Colombia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1314,7 +1314,7 @@ const excluding = [
   {
     "CommonTypesID": 1731,
     "code": 37,
-    "description": "Malaysia",
+    "description": "Venezuela",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1322,7 +1322,7 @@ const excluding = [
   {
     "CommonTypesID": 1732,
     "code": 38,
-    "description": "Australia",
+    "description": "Malaysia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1330,7 +1330,7 @@ const excluding = [
   {
     "CommonTypesID": 1733,
     "code": 39,
-    "description": "Kazakhstan",
+    "description": "Australia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1338,7 +1338,7 @@ const excluding = [
   {
     "CommonTypesID": 1734,
     "code": 4,
-    "description": "Indonesia",
+    "description": "Kazakhstan",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1346,7 +1346,7 @@ const excluding = [
   {
     "CommonTypesID": 1735,
     "code": 40,
-    "description": "Phillipines",
+    "description": "Indonesia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1354,7 +1354,7 @@ const excluding = [
   {
     "CommonTypesID": 1736,
     "code": 41,
-    "description": "New Zealand",
+    "description": "Phillipines",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1362,7 +1362,7 @@ const excluding = [
   {
     "CommonTypesID": 1737,
     "code": 42,
-    "description": "Singapore",
+    "description": "New Zealand",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1370,7 +1370,7 @@ const excluding = [
   {
     "CommonTypesID": 1738,
     "code": 43,
-    "description": "Thailand",
+    "description": "Singapore",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1378,7 +1378,7 @@ const excluding = [
   {
     "CommonTypesID": 1739,
     "code": 44,
-    "description": "Trinidad and Tobago",
+    "description": "Thailand",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1386,7 +1386,7 @@ const excluding = [
   {
     "CommonTypesID": 1740,
     "code": 45,
-    "description": "Japan",
+    "description": "Trinidad and Tobago",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1394,7 +1394,7 @@ const excluding = [
   {
     "CommonTypesID": 1741,
     "code": 46,
-    "description": "Korea (South)",
+    "description": "Japan",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1402,7 +1402,7 @@ const excluding = [
   {
     "CommonTypesID": 1742,
     "code": 47,
-    "description": "Vietnam",
+    "description": "Korea (South)",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1410,7 +1410,7 @@ const excluding = [
   {
     "CommonTypesID": 1743,
     "code": 48,
-    "description": "China",
+    "description": "Vietnam",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1418,7 +1418,7 @@ const excluding = [
   {
     "CommonTypesID": 1744,
     "code": 49,
-    "description": "Russian Federation",
+    "description": "China",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1426,7 +1426,7 @@ const excluding = [
   {
     "CommonTypesID": 1745,
     "code": 5,
-    "description": "Turkey",
+    "description": "Russian Federation",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1434,7 +1434,7 @@ const excluding = [
   {
     "CommonTypesID": 1746,
     "code": 50,
-    "description": "Pakistan",
+    "description": "Turkey",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1442,7 +1442,7 @@ const excluding = [
   {
     "CommonTypesID": 1748,
     "code": 53,
-    "description": "Myanmar",
+    "description": "Srilanka",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1450,7 +1450,7 @@ const excluding = [
   {
     "CommonTypesID": 1751,
     "code": 56,
-    "description": "Algeria",
+    "description": "Morocco",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1458,7 +1458,7 @@ const excluding = [
   {
     "CommonTypesID": 1752,
     "code": 57,
-    "description": "Tunisia",
+    "description": "Algeria",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1466,7 +1466,7 @@ const excluding = [
   {
     "CommonTypesID": 1753,
     "code": 58,
-    "description": "Libya",
+    "description": "Tunisia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1474,7 +1474,7 @@ const excluding = [
   {
     "CommonTypesID": 1755,
     "code": 6,
-    "description": "Mauritius",
+    "description": "Egypt",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1482,7 +1482,7 @@ const excluding = [
   {
     "CommonTypesID": 1756,
     "code": 60,
-    "description": "Gambia",
+    "description": "Mauritius",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1490,7 +1490,7 @@ const excluding = [
   {
     "CommonTypesID": 1757,
     "code": 61,
-    "description": "Senegal",
+    "description": "Gambia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1498,7 +1498,7 @@ const excluding = [
   {
     "CommonTypesID": 1758,
     "code": 62,
-    "description": "Mauritania",
+    "description": "Senegal",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1506,7 +1506,7 @@ const excluding = [
   {
     "CommonTypesID": 1759,
     "code": 63,
-    "description": "Mali",
+    "description": "Mauritania",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1514,7 +1514,7 @@ const excluding = [
   {
     "CommonTypesID": 1760,
     "code": 64,
-    "description": "Guinea",
+    "description": "Mali",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1522,7 +1522,7 @@ const excluding = [
   {
     "CommonTypesID": 1761,
     "code": 65,
-    "description": "Burkina Fasso",
+    "description": "Guinea",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1530,7 +1530,7 @@ const excluding = [
   {
     "CommonTypesID": 1762,
     "code": 66,
-    "description": "Niger",
+    "description": "Burkina Fasso",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1538,7 +1538,7 @@ const excluding = [
   {
     "CommonTypesID": 1763,
     "code": 67,
-    "description": "Togolese Republic",
+    "description": "Niger",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1546,7 +1546,7 @@ const excluding = [
   {
     "CommonTypesID": 1764,
     "code": 68,
-    "description": "Benin",
+    "description": "Togolese Republic",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1554,7 +1554,7 @@ const excluding = [
   {
     "CommonTypesID": 1765,
     "code": 69,
-    "description": "Boputatswana",
+    "description": "Benin",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1562,7 +1562,7 @@ const excluding = [
   {
     "CommonTypesID": 1766,
     "code": 7,
-    "description": "Rodrigues Island",
+    "description": "Boputatswana",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1570,7 +1570,7 @@ const excluding = [
   {
     "CommonTypesID": 1767,
     "code": 70,
-    "description": "Liberia",
+    "description": "Rodrigues Island",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1578,7 +1578,7 @@ const excluding = [
   {
     "CommonTypesID": 1770,
     "code": 73,
-    "description": "Nigeria",
+    "description": "Ghana",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1586,7 +1586,7 @@ const excluding = [
   {
     "CommonTypesID": 1771,
     "code": 74,
-    "description": "Chad",
+    "description": "Nigeria",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1594,7 +1594,7 @@ const excluding = [
   {
     "CommonTypesID": 1772,
     "code": 75,
-    "description": "Central African Republic",
+    "description": "Chad",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1602,7 +1602,7 @@ const excluding = [
   {
     "CommonTypesID": 1773,
     "code": 76,
-    "description": "Cameroon",
+    "description": "Central African Republic",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1610,7 +1610,7 @@ const excluding = [
   {
     "CommonTypesID": 1774,
     "code": 77,
-    "description": "Cape Verde",
+    "description": "Cameroon",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1618,7 +1618,7 @@ const excluding = [
   {
     "CommonTypesID": 1775,
     "code": 78,
-    "description": "Sao Tome and Principe",
+    "description": "Cape Verde",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1626,7 +1626,7 @@ const excluding = [
   {
     "CommonTypesID": 1776,
     "code": 79,
-    "description": "Ciskei",
+    "description": "Sao Tome and Principe",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1634,7 +1634,7 @@ const excluding = [
   {
     "CommonTypesID": 1777,
     "code": 8,
-    "description": "Equatorial Guinea",
+    "description": "Ciskei",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1642,7 +1642,7 @@ const excluding = [
   {
     "CommonTypesID": 1778,
     "code": 80,
-    "description": "Gabonese Republic",
+    "description": "Equatorial Guinea",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1650,7 +1650,7 @@ const excluding = [
   {
     "CommonTypesID": 1779,
     "code": 81,
-    "description": "Congo",
+    "description": "Gabonese Republic",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1658,7 +1658,7 @@ const excluding = [
   {
     "CommonTypesID": 1782,
     "code": 84,
-    "description": "Guinea Bissau",
+    "description": "Angola",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1666,7 +1666,7 @@ const excluding = [
   {
     "CommonTypesID": 1783,
     "code": 85,
-    "description": "Diego Garcia",
+    "description": "Guinea Bissau",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1674,7 +1674,7 @@ const excluding = [
   {
     "CommonTypesID": 1784,
     "code": 86,
-    "description": "Ascension",
+    "description": "Diego Garcia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1682,7 +1682,7 @@ const excluding = [
   {
     "CommonTypesID": 1785,
     "code": 87,
-    "description": "Seychelles",
+    "description": "Ascension",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1690,7 +1690,7 @@ const excluding = [
   {
     "CommonTypesID": 1786,
     "code": 88,
-    "description": "Sudan",
+    "description": "Seychelles",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1698,7 +1698,7 @@ const excluding = [
   {
     "CommonTypesID": 1788,
     "code": 9,
-    "description": "Rwandese Republic",
+    "description": "South Africa",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1706,7 +1706,7 @@ const excluding = [
   {
     "CommonTypesID": 1789,
     "code": 90,
-    "description": "Ethiopia",
+    "description": "Rwandese Republic",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1714,7 +1714,7 @@ const excluding = [
   {
     "CommonTypesID": 1790,
     "code": 91,
-    "description": "Somalia Democratic Republic",
+    "description": "Ethiopia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1722,7 +1722,7 @@ const excluding = [
   {
     "CommonTypesID": 1792,
     "code": 93,
-    "description": "Kenya",
+    "description": "Djibouti",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1730,7 +1730,7 @@ const excluding = [
   {
     "CommonTypesID": 1793,
     "code": 94,
-    "description": "Tanzania",
+    "description": "Kenya",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1738,7 +1738,7 @@ const excluding = [
   {
     "CommonTypesID": 1794,
     "code": 95,
-    "description": "UGANDA",
+    "description": "Tanzania",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1746,7 +1746,7 @@ const excluding = [
   {
     "CommonTypesID": 1795,
     "code": 96,
-    "description": "Burundi",
+    "description": "UGANDA",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1754,7 +1754,7 @@ const excluding = [
   {
     "CommonTypesID": 1796,
     "code": 97,
-    "description": "Mozambique",
+    "description": "Burundi",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1762,7 +1762,7 @@ const excluding = [
   {
     "CommonTypesID": 1797,
     "code": 98,
-    "description": "Zambia",
+    "description": "Mozambique",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
@@ -1770,7 +1770,7 @@ const excluding = [
   {
     "CommonTypesID": 1798,
     "code": 99,
-    "description": "",
+    "description": "Zambia",
     "MasterType": "Excluding USA & Canada",
     "isdeleted": 0,
     "effectivedate": "2013-06-12 11:02:00"
