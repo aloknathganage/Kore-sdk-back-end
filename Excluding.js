@@ -1,13 +1,5 @@
 const excluding = [
   {
-    "CommonTypesID": 1560,
-    "code": 1,
-    "description": "India",
-    "MasterType": "Excluding USA & Canada",
-    "isdeleted": 0,
-    "effectivedate": "2013-06-12 11:02:00"
-  },
-  {
     "CommonTypesID": 1561,
     "code": 10,
     "description": "Transkei",
